@@ -10,6 +10,10 @@
 	min-height: 400px;
 }
 
+.row-content-ab {
+	border-bottom: 1px;
+}
+
 .footer {
 	background-color: #D1C4E9;
 	margin: 0px auto;
